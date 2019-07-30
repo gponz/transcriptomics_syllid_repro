@@ -1,1 +1,1 @@
-# transcriptomics_syllid_repro
+This repository contains resources from Ponz Segrelles, G, Passos Ribeiro, R, Bleidorn, C & Aguado MT (2019) "Male-specific changes characterize differential gene expression analysis of reproducing Syllis prolifera and Nudisyllis pulligera (Syllidae, Annelida)." In prep.
