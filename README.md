@@ -1,1 +1,1 @@
-This repository contains resources from Ponz Segrelles, G, Passos Ribeiro, R, Bleidorn, C & Aguado MT (2020) "Sex-specific gene expression differences in reproducing Syllis prolifera and Nudisyllis pulligera (Annelida, Syllidae)". Marine Genomics.
+This repository contains resources from Ponz Segrelles, G, Passos Ribeiro, R, Bleidorn, C & Aguado MT (2020) "Sex-specific gene expression differences in reproducing Syllis prolifera and Nudisyllis pulligera (Annelida, Syllidae)". Marine Genomics. https://doi.org/10.1016/j.margen.2020.100772
